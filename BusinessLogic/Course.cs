@@ -24,7 +24,18 @@ namespace BusinessLogic
         /// <summary>
         /// Number of credits for the course
         /// </summary>
-        public byte NumberOfCredits { get; set; }
+        public byte NumberOfCredits
+        {
+            get { return NumberOfCredits; }
+            set
+            {
+                if(value >= 30 || value < 5)
+                {
+                    throw new ArgumentException();
+                }
+                NumberOfCredits = value;
+            }
+        }
 
     }
 }
