@@ -12,7 +12,7 @@ namespace BusinessLogic
         /// <returns></returns>
         public static bool IsSsn(string ssn)
         {
-            Regex pattern = new Regex(@"\d{3}-?\d{2}-?\d{4}|\d{3} \d{2} \d{4}");
+            Regex pattern = new Regex(@"^\d{3}-?\d{2}-?\d{4}$");
             return pattern.IsMatch(ssn);
         }
 
