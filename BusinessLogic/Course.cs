@@ -14,7 +14,7 @@ namespace BusinessLogic
         /// <summary>
         /// The instructor teaching the course
         /// </summary>
-        public string InstructorName { get; set; }
+        public string InstructorName { get; set; } = "STAFF";
 
         /// <summary>
         /// The name of the course
