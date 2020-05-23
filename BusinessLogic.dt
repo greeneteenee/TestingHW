@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-16"?>
+<DevTrackerData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" SolutionTotalEditTime="PT0S" SolutionTotalViewTime="PT22M39.8374638S" SolutionTotalDebugTime="PT0S">
+  <FileVersion>
+    <Major>1</Major>
+    <Minor>0</Minor>
+  </FileVersion>
+  <SolutionFolder>C:\Users\Unknown User\source\repos\CPW215-Lab-UnitTestStart</SolutionFolder>
+  <SolutionCreattionDate>2020-05-23T09:27:53.414298-07:00</SolutionCreattionDate>
+  <ProjectsCreatedDateList>
+    <ProjectCreated>
+      <ProjectName>C:\Users\Unknown User\source\repos\CPW215-Lab-UnitTestStart\BusinessLogic\BusinessLogic.csproj</ProjectName>
+      <CreatedDate>2020-05-23T09:26:46.2119288-07:00</CreatedDate>
+    </ProjectCreated>
+    <ProjectCreated>
+      <ProjectName>C:\Users\Unknown User\source\repos\CPW215-Lab-UnitTestStart\BusinessLogicTests\BusinessLogicTests.csproj</ProjectName>
+      <CreatedDate>2020-05-23T09:26:46.2139293-07:00</CreatedDate>
+    </ProjectCreated>
+  </ProjectsCreatedDateList>
+  <SessionTimeList />
+  <LastSessionTimeList>
+    <DevTrackerDataItem ViewActiveTime="PT2M59.2079281S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\Unknown User\source\repos\CPW215-Lab-UnitTestStart\BusinessLogic\BusinessLogic.csproj</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\Unknown User\source\repos\CPW215-Lab-UnitTestStart\BusinessLogic\BusinessLogic.csproj</ProjectName>
+      <CreatedDate>2020-05-23T10:17:54.1867654-07:00</CreatedDate>
+      <ViewedBy>Unknown User</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1M12.5625352S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\Unknown User\source\repos\CPW215-Lab-UnitTestStart\BusinessLogicTests\BusinessLogicTests.csproj</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\Unknown User\source\repos\CPW215-Lab-UnitTestStart\BusinessLogicTests\BusinessLogicTests.csproj</ProjectName>
+      <CreatedDate>2020-05-23T10:17:54.1557583-07:00</CreatedDate>
+      <ViewedBy>Unknown User</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT37.3020543S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\Unknown User\source\repos\CPW215-Lab-UnitTestStart\BusinessLogic\Course.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\Unknown User\source\repos\CPW215-Lab-UnitTestStart\BusinessLogic\BusinessLogic.csproj</ProjectName>
+      <CreatedDate>2020-05-23T09:29:51.1675878-07:00</CreatedDate>
+      <ViewedBy>Unknown User</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1M13.9324107S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2020-05-23T10:20:45.0567318-07:00</CreatedDate>
+      <ViewedBy>Unknown User</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT3M5.9685692S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Program Files\dotnet\sdk\3.1.201\Sdks\Microsoft.NET.Sdk\targets\Microsoft.PackageDependencyResolution.targets</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2020-05-23T10:20:24.3518618-07:00</CreatedDate>
+      <ViewedBy>Unknown User</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT52.6937896S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\Unknown User\source\repos\CPW215-Lab-UnitTestStart\BusinessLogic\Validator.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\Unknown User\source\repos\CPW215-Lab-UnitTestStart\BusinessLogic\BusinessLogic.csproj</ProjectName>
+      <CreatedDate>2020-05-23T09:30:28.4736428-07:00</CreatedDate>
+      <ViewedBy>Unknown User</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT12M38.1911814S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\Unknown User\source\repos\CPW215-Lab-UnitTestStart\BusinessLogicTests\ValidatorTests.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\Unknown User\source\repos\CPW215-Lab-UnitTestStart\BusinessLogicTests\BusinessLogicTests.csproj</ProjectName>
+      <CreatedDate>2020-05-23T09:30:53.3089531-07:00</CreatedDate>
+      <ViewedBy>Unknown User</ViewedBy>
+    </DevTrackerDataItem>
+  </LastSessionTimeList>
+  <TotalTimeList>
+    <DevTrackerDataItem ViewActiveTime="PT2M59.1879155S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\Unknown User\source\repos\CPW215-Lab-UnitTestStart\BusinessLogic\BusinessLogic.csproj</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\Unknown User\source\repos\CPW215-Lab-UnitTestStart\BusinessLogic\BusinessLogic.csproj</ProjectName>
+      <CreatedDate>2020-05-23T10:17:54.1867654-07:00</CreatedDate>
+      <ViewedBy>Unknown User</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1M12.5625352S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\Unknown User\source\repos\CPW215-Lab-UnitTestStart\BusinessLogicTests\BusinessLogicTests.csproj</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\Unknown User\source\repos\CPW215-Lab-UnitTestStart\BusinessLogicTests\BusinessLogicTests.csproj</ProjectName>
+      <CreatedDate>2020-05-23T10:17:54.1557583-07:00</CreatedDate>
+      <ViewedBy>Unknown User</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT37.3020543S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\Unknown User\source\repos\CPW215-Lab-UnitTestStart\BusinessLogic\Course.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\Unknown User\source\repos\CPW215-Lab-UnitTestStart\BusinessLogic\BusinessLogic.csproj</ProjectName>
+      <CreatedDate>2020-05-23T09:29:51.1675878-07:00</CreatedDate>
+      <ViewedBy>Unknown User</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1M13.9324107S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2020-05-23T10:20:45.0567318-07:00</CreatedDate>
+      <ViewedBy>Unknown User</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT3M5.9685692S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Program Files\dotnet\sdk\3.1.201\Sdks\Microsoft.NET.Sdk\targets\Microsoft.PackageDependencyResolution.targets</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2020-05-23T10:20:24.3518618-07:00</CreatedDate>
+      <ViewedBy>Unknown User</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT52.6937896S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\Unknown User\source\repos\CPW215-Lab-UnitTestStart\BusinessLogic\Validator.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\Unknown User\source\repos\CPW215-Lab-UnitTestStart\BusinessLogic\BusinessLogic.csproj</ProjectName>
+      <CreatedDate>2020-05-23T09:30:28.4736428-07:00</CreatedDate>
+      <ViewedBy>Unknown User</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT12M38.1911814S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\Unknown User\source\repos\CPW215-Lab-UnitTestStart\BusinessLogicTests\ValidatorTests.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\Unknown User\source\repos\CPW215-Lab-UnitTestStart\BusinessLogicTests\BusinessLogicTests.csproj</ProjectName>
+      <CreatedDate>2020-05-23T09:30:53.3089531-07:00</CreatedDate>
+      <ViewedBy>Unknown User</ViewedBy>
+    </DevTrackerDataItem>
+  </TotalTimeList>
+  <HistoryTimeList>
+    <DevTrackerDataItem ViewActiveTime="PT1M13.9324107S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2020-05-23T10:20:45.0567318-07:00</CreatedDate>
+      <ViewedBy>Unknown User</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT3M5.9685692S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Program Files\dotnet\sdk\3.1.201\Sdks\Microsoft.NET.Sdk\targets\Microsoft.PackageDependencyResolution.targets</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2020-05-23T10:20:24.3518618-07:00</CreatedDate>
+      <ViewedBy>Unknown User</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT2M59.1879155S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\Unknown User\source\repos\CPW215-Lab-UnitTestStart\BusinessLogic\BusinessLogic.csproj</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\Unknown User\source\repos\CPW215-Lab-UnitTestStart\BusinessLogic\BusinessLogic.csproj</ProjectName>
+      <CreatedDate>2020-05-23T10:17:54.1867654-07:00</CreatedDate>
+      <ViewedBy>Unknown User</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1M12.5625352S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\Unknown User\source\repos\CPW215-Lab-UnitTestStart\BusinessLogicTests\BusinessLogicTests.csproj</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\Unknown User\source\repos\CPW215-Lab-UnitTestStart\BusinessLogicTests\BusinessLogicTests.csproj</ProjectName>
+      <CreatedDate>2020-05-23T10:17:54.1557583-07:00</CreatedDate>
+      <ViewedBy>Unknown User</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT12M38.1911814S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\Unknown User\source\repos\CPW215-Lab-UnitTestStart\BusinessLogicTests\ValidatorTests.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\Unknown User\source\repos\CPW215-Lab-UnitTestStart\BusinessLogicTests\BusinessLogicTests.csproj</ProjectName>
+      <CreatedDate>2020-05-23T09:30:53.3089531-07:00</CreatedDate>
+      <ViewedBy>Unknown User</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT52.6937896S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\Unknown User\source\repos\CPW215-Lab-UnitTestStart\BusinessLogic\Validator.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\Unknown User\source\repos\CPW215-Lab-UnitTestStart\BusinessLogic\BusinessLogic.csproj</ProjectName>
+      <CreatedDate>2020-05-23T09:30:28.4736428-07:00</CreatedDate>
+      <ViewedBy>Unknown User</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT37.3020543S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\Unknown User\source\repos\CPW215-Lab-UnitTestStart\BusinessLogic\Course.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\Unknown User\source\repos\CPW215-Lab-UnitTestStart\BusinessLogic\BusinessLogic.csproj</ProjectName>
+      <CreatedDate>2020-05-23T09:29:51.1675878-07:00</CreatedDate>
+      <ViewedBy>Unknown User</ViewedBy>
+    </DevTrackerDataItem>
+  </HistoryTimeList>
+</DevTrackerData>
